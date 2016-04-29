@@ -12,7 +12,7 @@ using namespace std;
 int main(){
 	short int i; //Короткое int-значение со знаком
 	short unsigned int j; // короткое int-значение без знака
-	j = 60000;
+	j = 60000; //изменение
 	i = j;
 	cout << i << " " << j;
 	return 0;
